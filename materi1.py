@@ -1,0 +1,6 @@
+nama = input("masukkan nama: ")
+nim = input("masukkan nim: ")
+umur = int(input("masukkan umur: "))
+print("Nama Lengkap: ", nama)
+print("NIM: ", nim)
+print("Umur: ", umur, " tahun")
